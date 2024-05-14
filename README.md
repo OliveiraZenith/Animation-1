@@ -10,7 +10,7 @@ Consulte **[o site](https://661f068c73bf919aaab4474a--minipi1bimestre.netlify.ap
 
 site:
 
-![Site](Images/print_site.jpeg)
+![Site](Tab-Animation-1.gif)
 
 
 
