@@ -1,5 +1,5 @@
 # Animação do menu
-Esse é um projeto criado em sala de aula, com o intuito de fazer uma animação, utilizando CSS e HTML, essa animação é para tornar o menu de navegação mais dinamico.
+Esse é um projeto criado em sala de aula, com o intuito de fazer uma animação, utilizando CSS e HTML, essa animação é para tornar o menu de navegação mais dinamico. Portanto, ao passar o cursor sobre os ícones os mesmos se movem.
 
 ## 🚀 Começando
 
