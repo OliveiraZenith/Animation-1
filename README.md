@@ -4,11 +4,11 @@ Esse é um projeto criado em sala de aula, com o intuito de fazer uma animação
 ## 🚀 Começando
 
 
-Consulte **[o site](https://661f068c73bf919aaab4474a--minipi1bimestre.netlify.app/)** para visualizar o projeto.
+Consulte **[o site](https://codepen.io/AnaZenith/pen/)** para visualizar o projeto.
 
 ### 📋 Pré-Visualização
 
-site:
+Gif:
 
 ![Site](Tab-Animation-1.gif)
 
