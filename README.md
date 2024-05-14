@@ -4,7 +4,7 @@ Esse é um projeto criado em sala de aula, com o intuito de fazer uma animação
 ## 🚀 Começando
 
 
-Consulte **[o site](https://codepen.io/AnaZenith/pen/)** para visualizar o projeto.
+Consulte **[o site](https://codepen.io/AnaZenith/pen/Exzjmdm?editors=1100)** para visualizar o projeto.
 
 ### 📋 Pré-Visualização
 
